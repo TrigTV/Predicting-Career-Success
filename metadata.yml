@@ -1,0 +1,17 @@
+---
+:id: 217994339
+:submitters:
+- :name: Nick Lemoff
+  :email: nlemoff@berkeley.edu
+- :name: Shuhan Luo
+  :email: mysterymeat@berkeley.edu
+- :name: Trigger Nandhra
+  :email: triggertv@berkeley.edu
+- :name: Kevin Ryu
+  :email: kevinryu335@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-12-06 06:59:12.207097000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-12-05 22:59:12.207097000 Z
+:status: processed
